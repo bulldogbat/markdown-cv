@@ -3,11 +3,10 @@ layout: cv
 title: Christian Kremer's CV
 ---
 # Christian Kremer
-Physicist, Mathematician, Cambridge professor.
+Data Munger.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="http://data-digger.net">bulldogbat@gmx.de</a>
 </div>
 
 
