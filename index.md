@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Christian Kremer's CV
 ---
-# Isaac Newton
+# Christian Kremer
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
